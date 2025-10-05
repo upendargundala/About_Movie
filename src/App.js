@@ -707,30 +707,7 @@ function App() {
             <i className="fas fa-film"></i>
             <span>MovieExplorer</span>
           </div>
-          <p>© 2023 MovieExplorer. All rights reserved.</p>
-          <div className="social-links">
-            <button 
-              className="social-button"
-              onClick={() => handleSocialClick('Facebook')}
-              aria-label="Facebook"
-            >
-              <i className="fab fa-facebook"></i>
-            </button>
-            <button 
-              className="social-button"
-              onClick={() => handleSocialClick('Twitter')}
-              aria-label="Twitter"
-            >
-              <i className="fab fa-twitter"></i>
-            </button>
-            <button 
-              className="social-button"
-              onClick={() => handleSocialClick('Instagram')}
-              aria-label="Instagram"
-            >
-              <i className="fab fa-instagram"></i>
-            </button>
-          </div>
+          <p>© 2025 Created By Gundala Upendar. All rights reserved.</p>
         </div>
       </footer>
     </div>
